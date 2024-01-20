@@ -62,8 +62,10 @@
   </a>
 </div>
 
-##Contact
+## Contact
+
 * **Gmail :** sameershaikh01072004@gmail.com
+
 * **Whatsapp :** +91 8999596143
 
 ###
