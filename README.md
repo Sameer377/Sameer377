@@ -64,8 +64,9 @@
 
 ## Contact
 
-* **Gmail :** sameershaikh01072004@gmail.com
+* **Gmail :** sameer.shaikh.sde@gmail.com
 
 * **Whatsapp :** +91 8999596143
+* **Resume :** <a href="https://drive.google.com/file/d/1VjscnmzXvDDzN9myGiIlwAXUnPxr-9dz/view?usp=sharing">Click to view</a>
 
 ###
