@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">An Android and Backend Developer.</h6>
+<h3 align="center">A FullStack Developer.</h6>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sameer377&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -15,7 +15,7 @@
 
 ###
 
-<h4 align="left">🎓 Sotware Engineer passionate about real-world software development.  <br>📱 Android dev with 1+ years of experience, now diving deep into backend with Spring Boot.  <br>🚀 Building scalable apps, deploying them, and always pushing to learn, lead, and level up.</h4>
+<h4 align="left">🎓 Sotware Engineer passionate about real-world software development.  <br>📱 I build web app with mern stack. Now diving deep into backend with Spring Boot.  <br>🚀 Building scalable apps, deploying them, and always pushing to learn, lead, and level up.</h4>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning SpringBoot and React<br>🎯 Looking for : SDE opportunities. <br>💬 How to reach me : <a href="https://www.linkedin.com/in/sameersh0377/">Linked in</a>
+<h4 align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning SpringBoot<br>🎯 Looking for : SDE opportunities. <br>💬 How to reach me : <a href="https://www.linkedin.com/in/sameersh0377/">Linked in</a>
 <br>🎲 Fun fact: Every code is bug free until you run it.</h4>
 
 ###
@@ -53,6 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -66,6 +68,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ##
