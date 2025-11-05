@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning SpringBoot<br>🎯 Looking for : SDE opportunities. <br>💬 How to reach me : <a href="https://www.linkedin.com/in/sameersh0377/">Linked in</a>
+<h4 align="left">✨ Learning through bugs since 2019<br>📚 I'm currently learning SpringBoot<br>🎯 Looking for : SDE opportunities. <br>💬 How to reach me : <a href="https://www.linkedin.com/in/sameersh0377/">Linked in</a>
 <br>🎲 Fun fact: Every code is bug free until you run it.</h4>
 
 ###
