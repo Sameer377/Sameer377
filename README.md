@@ -1,3 +1,5 @@
+![App Screenshot](./IMG_20251112_020716.jpg)
+
 <h1 align="center">Sameer Shaikh</h1>
 
 ###
