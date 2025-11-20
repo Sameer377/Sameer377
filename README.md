@@ -46,12 +46,12 @@
 ---
 
 ## 🚀 About Me
-- I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 400+ users and taught 100+ students. :contentReference[oaicite:0]{index=0}  
+- I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 400+ users and taught 100+ students. 
 - Currently building scalable backend systems, APIs, and deploy pipelines.
 
 ## 🔥 Highlights (quick)
-- **Intern @ Medos** — Spring Boot backend, AWS S3, PostgreSQL, REST APIs. :contentReference[oaicite:2]{index=2}  
-- **Built & Deployed** — Shopx (E-commerce), Learnify (MERN), CodingCrafters (Android). Links below. :contentReference[oaicite:3]{index=3}
+- **Intern @ Medos** — Spring Boot backend, AWS ECS, EC2, S3, PostgreSQL, REST APIs.   
+- **Built & Deployed** — Shopx (E-commerce), Learnify (MERN), CodingCrafters (Android). 
 
 ## 🛠 Tech Stack
 
