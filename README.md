@@ -4,38 +4,39 @@
    ========================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="hero-gif" width="100%" />
+  <img src="https://github.com/Sameer377/Sameer377/blob/main/12.png" alt="hero-gif" width="100%" />
 </p>
 
-<h1 align="center">Hey there — I'm **Sameer Bilal Shaikh** 👋</h1>
+<h1 align="center">Hey i am Sameer Shaikh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=0e75b6&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+Spring+Boot+%7C+MERN+Stack;Building+scalable+apps+and+deploying+them;Learning+every+day" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=0e75b6&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+Spring+Boot+%7C+MERN+Stack;Building+scalable+apps+and+deploying+them;Learning+every+day;Nice+to+meet+you+✨" alt="typing" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sameer377&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Followers-Connect-blue?style=flat" alt="followers" />
+   <img src="https://img.shields.io/github/followers/Sameer377?label=Followers&style=flat" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Available-Open%20to%20work-success?style=flat" alt="open to work" />
+<img src="https://img.shields.io/static/v1?label=PRs&message=40%2B&color=blue&style=flat" alt="GitHub PRs" />
+
+
+
 </p>
 
 ---
 
 ## 🚀 About Me
 - I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 400+ users and taught 100+ students. :contentReference[oaicite:0]{index=0}  
-- Currently building scalable backend systems, APIs, and deploy pipelines. :contentReference[oaicite:1]{index=1}
-
----
+- Currently building scalable backend systems, APIs, and deploy pipelines.
 
 ## 🔥 Highlights (quick)
 - **Intern @ Medos** — Spring Boot backend, AWS S3, PostgreSQL, REST APIs. :contentReference[oaicite:2]{index=2}  
 - **Built & Deployed** — Shopx (E-commerce), Learnify (MERN), CodingCrafters (Android). Links below. :contentReference[oaicite:3]{index=3}
 
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,postgres,aws,docker,git,github,html,css,kotlin,android,python,redis" />
+     <img src="https://skillicons.dev/icons?i=docker,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,ts,redis,sass,tailwind,vscode,cloudflare,r,vercel,firebase,cpp&perline=12"/>
+
 </p>
 
 ---
@@ -43,15 +44,21 @@
 ## 🧩 Projects — spotlight
 ### Shopx — E-Commerce Backend  
 `Spring Boot · PostgreSQL · Redis · JWT · AWS · Docker`  
-Built 20+ REST services, auth, caching & rate limiting. (Repo → **Shopx_E-commerce**). :contentReference[oaicite:4]{index=4}
+Built 20+ REST services, auth, caching & rate limiting. (Repo → [Shopx_E-commerce](https://github.com/Sameer377/Shopx_E-commerce) )
+
 
 ### Learnify — Online Learning Platform  
 `React · Node.js · Express · MongoDB`  
-Fullstack learning platform with course creation & progress tracking. (Repo → **Learnify**). :contentReference[oaicite:5]{index=5}
+Fullstack learning platform with course creation & progress tracking. (Repo → [Learnify](https://github.com/Sameer377/Learnify) ).
 
 ### CodingCrafters App — Android  
 `Android · Firebase · Java`  
-College event app used by 400+ users; real-time chat & notifications. (Repo → **Coding_Crafters**). :contentReference[oaicite:6]{index=6}
+College event app used by 400+ users; real-time chat & notifications. (Repo → [Coding_Crafters](https://github.com/Sameer377/Coding_Crafters) ).
+
+### Student Study Analyzer App — Android  
+`Android · Firebase · Java`  
+Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integration & notifications. 
+(Repo → [Student_Study_Analyzer](https://github.com/Sameer377/Student-Study-Analyzer) ).
 
 ---
 
@@ -78,12 +85,16 @@ College event app used by 400+ users; real-time chat & notifications. (Repo → 
 ---
 
 ## 📫 Contact
-- **Email:** sameer.shaikh.sde@gmail.com. :contentReference[oaicite:7]{index=7}  
-- **Phone/WhatsApp:** +91 8999596143. :contentReference[oaicite:8]{index=8}  
-- **LinkedIn:** https://www.linkedin.com/in/sameersh0377/ :contentReference[oaicite:9]{index=9}  
-- **GitHub:** https://github.com/Sameer377/ :contentReference[oaicite:10]{index=10}  
-- **LeetCode:** https://leetcode.com/u/Sameer377/ :contentReference[oaicite:11]{index=11}
+- **Email:** sameer.shaikh.sde@gmail.com. 
+- **Phone/WhatsApp:** +91 8999596143. 
+- **LinkedIn:** https://www.linkedin.com/in/sameersh0377/
+- **GitHub:** https://github.com/Sameer377/ 
+- **LeetCode:** https://leetcode.com/u/Sameer377/ 
 
-**Resume (local):** `/mnt/data/sameer_shaikh_8999596143.pdf`
 
 ---
+<p align="center">
+  <img src="https://github.com/Sameer377/Sameer377/blob/main/ezgif-2-a952e3100a.gif" alt="hero-gif" width="50%" />
+</p>
+
+### Have a good day
