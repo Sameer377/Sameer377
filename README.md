@@ -3,11 +3,37 @@
      Max animation / cool vibes
    ========================== -->
 
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+
 <p align="center">
   <img src="https://github.com/Sameer377/Sameer377/blob/main/12.png" alt="hero-gif" width="100%" />
 </p>
 
-<h1 align="center">Hey i am Sameer Shaikh</h1>
+<h1 align="center">Hey i am Sameer!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=0e75b6&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+Spring+Boot+%7C+MERN+Stack;Building+scalable+apps+and+deploying+them;Learning+every+day;Nice+to+meet+you+✨" alt="typing" />
 </p>
@@ -75,12 +101,20 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 
 ---
 
-## ✨ More animated badges
+## ✨ Social Profiles
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-240%2B-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL-green?style=for-the-badge&logo=hackerrank" alt="hackerrank" />
-  <img src="https://img.shields.io/badge/Top-Learner-blue?style=for-the-badge" alt="top learner" />
+   
+[<img src="https://img.shields.io/badge/GitHub-Sameer377-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000&borderRadius=50" />](https://github.com/Sameer377/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />](https://www.linkedin.com/in/sameersh0377/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&borderRadius=50" />](https://leetcode.com/u/Sameer377/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&borderRadius=50" />](https://hashnode.com/@sameersh) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&borderRadius=50" />](https://www.hackerrank.com/profile/sameershaikh0101)
+
+
 </p>
+
+
+
 
 ---
 
@@ -93,8 +127,16 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 
 
 ---
+
 <p align="center">
   <img src="https://github.com/Sameer377/Sameer377/blob/main/ezgif-2-a952e3100a.gif" alt="hero-gif" width="50%" />
 </p>
 
-### Have a good day
+
+<h2 align="center">
+  Have a good day :)
+</h2>
+
+<p align="center">
+  <img src="https://github.com/Sameer377/Sameer377/blob/main/running.gif" alt="hero-gif" width="400" />
+</p>
