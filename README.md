@@ -84,11 +84,6 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 ---
 
 ## 📊 GitHub Stats & Activity
-
- <div align="center">
-        <img alt="Visitor Stats"  width="400"
-            src="https://widgetbite.com/stats/Sameer377"/>  
-    </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sameer377&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github-stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer377&theme=radical" alt="streak" />
