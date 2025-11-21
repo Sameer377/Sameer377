@@ -43,7 +43,8 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
 
 ## 🚀 About Me
 - I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 400+ users and taught 100+ students. 
