@@ -51,11 +51,9 @@
 
 <div align="center">
    
-[<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />](https://www.linkedin.com/in/sameersh0377/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-Sameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />](https://www.linkedin.com/in/sameersh0377/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&borderRadius=50" />](https://leetcode.com/u/Sameer377/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&borderRadius=50" />](https://hashnode.com/@sameersh) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&borderRadius=50" />](https://www.hackerrank.com/profile/sameershaikh0101)
-
 
 </div>
 
