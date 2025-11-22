@@ -50,7 +50,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br><br>
 
 ## 🚀 About Me
 - I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 400+ users and taught 100+ students. 
@@ -67,7 +66,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧩 Projects — spotlight
 ### Shopx — E-Commerce Backend  
@@ -88,7 +87,7 @@ College event app used by 400+ users; real-time chat & notifications. (Repo → 
 Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integration & notifications. 
 (Repo → [Student_Study_Analyzer](https://github.com/Sameer377/Student-Study-Analyzer) ).
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
@@ -100,11 +99,7 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer377&theme=github-compact" alt="activity-graph" />
 </p>
 
-  
-
-
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ✨ Social Profiles
 <p align="center">
@@ -131,7 +126,7 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 - **LeetCode:** https://leetcode.com/u/Sameer377/ 
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
   <img src="https://github.com/Sameer377/Sameer377/blob/main/ezgif-2-a952e3100a.gif" alt="hero-gif" width="50%" />
