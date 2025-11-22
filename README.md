@@ -49,6 +49,16 @@
 
 </p>
 
+<div align="center">
+   
+[<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />](https://www.linkedin.com/in/sameersh0377/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&borderRadius=50" />](https://leetcode.com/u/Sameer377/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&borderRadius=50" />](https://hashnode.com/@sameersh) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&borderRadius=50" />](https://www.hackerrank.com/profile/sameershaikh0101)
+
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 About Me
@@ -100,23 +110,6 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ✨ Social Profiles
-<p align="center">
-   
-[<img src="https://img.shields.io/badge/GitHub-Sameer377-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000&borderRadius=50" />](https://github.com/Sameer377/) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />](https://www.linkedin.com/in/sameersh0377/) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&borderRadius=50" />](https://leetcode.com/u/Sameer377/) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&borderRadius=50" />](https://hashnode.com/@sameersh) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&borderRadius=50" />](https://www.hackerrank.com/profile/sameershaikh0101)
-
-
-</p>
-
-
-
-
----
 
 ## 📫 Contact
 - **Email:** sameer.shaikh.sde@gmail.com. 
