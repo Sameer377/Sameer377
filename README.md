@@ -99,8 +99,8 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer377&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer377&theme=radical" alt="streak" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sameer377&theme=highcontrast&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&fire=4EEB67&sideNums=1BCAEB&hide_current_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sameer377&theme=highcontrast&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&fire=4EEB67&sideNums=1BCAEB" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
