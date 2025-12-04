@@ -109,6 +109,13 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📚 HashNode
+
+<p align="center">
+  <img src="https://github.com/Sameer377/Sameer377/blob/main/hashnode.png"  width="100%" />
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 📫 Contact
 - **Email:** sameer.shaikh.sde@gmail.com. 
 - **Phone/WhatsApp:** +91 8999596143. 
@@ -119,8 +126,9 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
 <p align="center">
-  <img src="https://github.com/Sameer377/Sameer377/blob/main/ezgif-2-a952e3100a.gif" alt="hero-gif" width="50%" />
+  <img src="https://github.com/Sameer377/Sameer377/blob/main/ezgif-2-a952e3100a.gif" alt="hero-gif" width="50%"  />
 </p>
 
 
