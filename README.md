@@ -112,7 +112,7 @@ Private tution app used by 40+ users; real-time chat, Fileuploads, Payment integ
 ## 📚 HashNode
 
 <p align="center">
-  <img src="https://github.com/Sameer377/Sameer377/blob/main/hashnode.png"  width="100%" />
+  <img src="https://github.com/Sameer377/Sameer377/blob/main/hashnode1.png"  width="100%" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
