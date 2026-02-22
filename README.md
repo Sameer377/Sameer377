@@ -64,8 +64,8 @@
 - Currently building scalable backend systems, APIs, and deploy pipelines.
 
 ## 🔥 Highlights (quick)
-- **Intern @ Medos** — Spring Boot backend, AWS ECS, EC2, S3, PostgreSQL, REST APIs.   
-- **Built & Deployed** — Shopx (E-commerce), Learnify (MERN), CodingCrafters (Android). 
+- **Intern @ Medos** — Spring Boot backend, MSG91(Email, Whatsapp, Sms), Agora(Video conference), Firebase Cloude Messaging, JWT, Microservices, AWS EC2, S3, PostgreSQL, REST APIs. <br>  
+- **Built & Deployed** — Shopx (E-commerce), Learnify (MERN), CodingCrafters (Android),Student study analyzer(Android), Xpensify(Android). 
 
 ## 🛠 Tech Stack
 
@@ -88,7 +88,7 @@ Fullstack learning platform with course creation & progress tracking. (Repo → 
 
 ### CodingCrafters App — Android  
 `Android · Firebase · Java`  
-College event app used by 400+ users; real-time chat & notifications. (Repo → [Coding_Crafters](https://github.com/Sameer377/Coding_Crafters) ).
+College event app used by 200+ users; real-time chat & notifications. (Repo → [Coding_Crafters](https://github.com/Sameer377/Coding_Crafters) ).
 
 ### Student Study Analyzer App — Android  
 `Android · Firebase · Java`  
