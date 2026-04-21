@@ -62,7 +62,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 About Me
-- I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 400+ users and taught 100+ students. 
+- I'm a Fullstack software engineer focused on backend (Spring Boot) and MERN stack. Built apps used by 200+ users and taught 100+ students. 
 - Currently building scalable backend systems, APIs, and deploy pipelines.
 
 ## 🔥 Highlights (quick)
@@ -81,8 +81,8 @@
 ## 🧩 Projects — spotlight
 ### Shopx — E-Commerce Backend  
 `Spring Boot · PostgreSQL · Redis · JWT · AWS · Docker`  
-Built 20+ REST services, auth, caching & rate limiting. (Repo → [Shopx_E-commerce](https://github.com/Sameer377/Shopx_E-commerce) )
-
+Built 20+ REST services, auth, caching & rate limiting. (Repo → [Shopx-ecom-monolith](https://github.com/Sameer377/Shopx_E-commerce) )<br>
+Migrating monolith backend to event driven micro service (Repo → [Shopx-microservices](https://github.com/Shopx-ecom) )
 
 ### Learnify — Online Learning Platform  
 `React · Node.js · Express · MongoDB`  
